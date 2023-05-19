@@ -1,1 +1,0 @@
-# Theta-pay-ussd-app
